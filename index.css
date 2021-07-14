@@ -1,0 +1,55 @@
+body{
+    background-image:url('banking-bg.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+nav{
+    display:inline-block;
+    top:0;
+    background-image:url('banking-bg.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+/*.carousel .item img{
+    max-height:400px;
+    min-width:50px;
+}*/
+.list-group{
+    background-image:url('banking-bg.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-bottom:20px;
+}
+
+footer {
+  height:50px;
+  flex-shrink:0;
+  background-color:#134c7d;
+  padding-bottom:0px;
+  width:100%;
+}
+
+iframe {
+    width:500px;
+    display:block;
+    height:500px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.text-center {
+ color:#cccccc;
+}
+
+.footer-copyright text-center py-3:hover{
+    color:white;
+}
+
+.services{
+    padding-top:10px;
+}
+
+img {
+    min-width:100%;
+    margin:auto;
+}
